@@ -29,27 +29,3 @@ O projeto foi dividido em blocos funcionais para demonstrar o domínio dos segui
 * **Bloco 6:** Funções com parâmetros, uso de dicionários e interatividade via `input()`.
 
 ---
-
-## 📐 Diagrama Simples de Classes
-
-```text
-       +-------------------+
-       |       Livro       |
-       +-------------------+
-       | - titulo: str     |
-       | - _autor: str     |
-       +-------------------+
-                 ^
-                 |  (Herança)
-       +-------------------+
-       |   LivroDigital    |
-       +-------------------+
-       | - formato: str    |
-       +-------------------+
-
- +-------------------+       +-------------------+
- |      Usuario      |       |    Emprestimo     |
- +-------------------+       +-------------------+
- | - nome: str       | <---->| - usuario: obj    |
- | - matricula: str  |       | - livro: obj      |
- +-------------------+       +-------------------+

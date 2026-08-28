@@ -8,12 +8,12 @@ integrando conceitos fundamentais de programação e Programação Orientada a O
 
 ## 👥 Integrantes do Grupo
 
-* Integrante 1
-* Integrante 2
-* Integrante 3
-* Integrante 4
-* Integrante 5
-* Integrante 6
+* Cauã Rocha
+* Davi Oliveira
+* Geovane Miguel
+* Isabela Oliveira
+* Nivio Samuel
+* Pedro de Souza
 
 ---
 
